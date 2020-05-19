@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="jobCategory">
+        <item>웹사이트 제작/개선</item>
+        <item>모바일앱 제작/개선</item>
+        <item>프로그램 개발</item>
+        <item>임베디드 시스템</item>
+        <item>데이터 사이언스</item>
+        <item>인공지능</item>
+        <item>블록체인</item>
+        <item>기타</item>
+
+    </string-array>
+</resources>
